@@ -238,7 +238,17 @@ body{
     height: calc(100% - 12rem);
     padding-bottom: 20px;
     overflow: auto;
+
 }
+
+.no-task{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 1.5rem;
+    opacity: 0.6;
+}
+
+
 
 .tasks{
     padding-top: 1rem;
@@ -420,6 +430,7 @@ body{
 }
 
 .btns button{
+    z-index: 2;
     padding: 10px 20px;
     border-radius: 5px;
     border: none;
