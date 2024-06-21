@@ -58,7 +58,7 @@ body{
     z-index: -1;
     transform: translateX(-50%); 
     border-radius: 0 0 50% 50%;
-    background-color: #f9ea8f;
+    background-color: #FC5185;
     transition: all 0.3s;
 }
 
@@ -118,7 +118,7 @@ body{
     width: 3.8rem;
     height: 4rem;
     border-radius: 50%;
-    background-color: #fdfbe5;
+    background-color: #FC5185;
     z-index: -1;
 
 
