@@ -18,4 +18,4 @@ Welcome to the Minimal Task Manager! This project is a simple yet powerful task 
 - **JavaScript**: For adding interactivity and managing tasks.
 - **Local Storage**: For persisting tasks data.
 
-# Experience it live - testing link
+# Experience it live - https://vaibhavgaur05.github.io/Minimal-Task-Manager/
